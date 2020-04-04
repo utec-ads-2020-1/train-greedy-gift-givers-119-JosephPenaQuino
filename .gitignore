@@ -1,0 +1,10 @@
+#PDFs
+*.pdf
+#vscode
+.vscode
+#compiled
+main
+#inputs
+*.in
+#outputs
+*.out
